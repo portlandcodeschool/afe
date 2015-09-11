@@ -35,11 +35,12 @@ For a more detailed look at what you'll learn, check out the [syllabus](syllabus
 
 Simplified Schedule
 -------------------
-There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. For current date and time, see[ the school web site.](http://www.portlandcodeschool.com/webdevelopmentprimer/ "Link to web foundation series pages on main school web site")
+There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. There are at least 10 hours of homework per week. Students may spend additional time per week depending on their educational goals.
+
 
 | Week | Topics  | Assignments |                                                                                                                                                                                         |
-|:---------:|:----:|:--------------------------------------------------------------------------------|
-|  1  | Review of jQuery & Bootstrap, intro to JSON, intro to task automation | Start AAA project, set up development environment, create or update personal blog |
-|  2  | CSS pre-processing,  Form validation, Selenium acceptance testing | Customize AAA Bootstrap, responsive images, reading data from servers |
-|  3  | Live style guides for AAA project, Using APIs for local storage & other services |
-|  4  | Using web services for persistant storage; image uploading |                                                                                             |
+|---------:|:----|:--------------------------------------------------------------------------------|
+|  1  | Review of jQuery & Bootstrap, | Start AAA project, set up development environment, create or update personal blog |
+|  2  | intro to JSON, intro to task automation, CSS pre-processing; Using APIs for local storage & other services | Update personal blog with interactive glossary, Update AAA site with data-driven animal list|
+|  3  | More SASS, task automation; Selenium acceptance testing   | Customize AAA Bootstrap, reading data from servers |
+|  4  | Live style guides for AAA project, Using web services for persistant storage | Finish personal blog glossary tool; finish Animal Adoption Agency web site. |
