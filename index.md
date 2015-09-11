@@ -20,13 +20,7 @@ These tools and techniques include:
 * Browser-based acceptance testing with Selenium IDE and web driver
 * Chrome Developer Tools for debugging AJAX transactions and CSS using source maps
 
-Advanced JavaScript techniques and technologies include:
 
-* Review of jQuery basics
-* Data-driven, template based web applications
-* AJAX to increase site usability and resposiveness
-* Local storage to store persistant data
-* API's to store data on servers and access 3rd party web services
 
 
 
@@ -38,9 +32,15 @@ Simplified Schedule
 There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. There are at least 10 hours of homework per week. Students may spend additional time per week depending on their educational goals.
 
 
-| Week | Topics  | Assignments |                                                                                                                                                                                         |
-|---------:|:----|:--------------------------------------------------------------------------------|
-|  1  | Review of jQuery & Bootstrap, | Start AAA project, set up development environment, create or update personal blog |
-|  2  | intro to JSON, intro to task automation, CSS pre-processing; Using APIs for local storage & other services | Update personal blog with interactive glossary, Update AAA site with data-driven animal list|
-|  3  | More SASS, task automation; Selenium acceptance testing   | Customize AAA Bootstrap, reading data from servers |
-|  4  | Live style guides for AAA project, Using web services for persistant storage | Finish personal blog glossary tool; finish Animal Adoption Agency web site. |
+|Theme|Week 1, Session 1|Week 1 Session 2|Week 2 Session 1|Week 2 Session 2|Week 3 Session 1|Week 3 Session 2|Week 4 Session 1|Week 4 Session2|Follow-up|
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|Coding for Design|Will it code? Assessing desgins for codability|User Stories|Design Language||Style Guides as comunication tools|||||
+|Tools|Intro to Task Automation: motivation|Node and JavaScript toolchains: grunt vs gulp|Scaffolding with Yeoman; Package managers|Ensuring quality - linters|automating the busy work - autoprefixers||Automating deployment|||
+|Style|Intro to SASS; SASS code-along with Codepen.io|Setting up a SASS preprocessor in your tool chain|Debugging SASS with Sourcemaps|Style guides in SASS code|SASS & Responsive design||Automated style style guide|||
+|Testing|Testing Concepts|User stories as the foundation of test plans|Browser-based acceptance testing tools: Selenium|Running pre-defined Selenium acceptance tests|Writing Selenium acceptance tests||Regression testing with Selenium|||
+|interactivity with CSS & JS|Common interactivity patterns: hover states on a button||CSS Animations and transitions||Forms: Purpose and usability||Forms: Validation patterns|||
+|Learning notebook/ portfolio project (individual)|Style notebook with SASS|Add hover state interactions to cards|Flipcards|Learn how to run given Selenium tests against the notebook|Update form design without breaking functionality|lab||lab|Project feedback|
+|Animal Adoption Agency web site (team)|review design and client brief|Design interactions from User stories|Scaffold site & create cards|Ceate styleguide in SASS|Get animal data from server using notebook example|lab|read animal data from form, store on server|lab|Project feedback|
+|||||||||||
+|Resources|SASS screencasts & reading|Toolchain tutorial|Selenium reading & install; JSON||AJAX treehouse video||Apigee tutorial|||
+|Exercises|SASS etudes|test plan worksheet|SASS Debugg quiz (requires use of sourcemap)||Selenium test etudes|||||
