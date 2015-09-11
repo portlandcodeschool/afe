@@ -31,7 +31,6 @@ Simplified Schedule
 -------------------
 There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. There are at least 10 hours of homework per week. Students may spend additional time per week depending on their educational goals.
 
-<iframe src="https://docs.google.com/spreadsheets/d/10rZJO0FCyQq4mAaGdIcP_Al3-XFwOAWzVul8SQoKbv8/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <iframe width="800" height="800" src="https://docs.google.com/spreadsheets/d/10rZJO0FCyQq4mAaGdIcP_Al3-XFwOAWzVul8SQoKbv8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
