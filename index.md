@@ -33,6 +33,8 @@ There are a minimum of 6 classroom hours per week with between 6 and 10 hours of
 
 <iframe src="https://docs.google.com/spreadsheets/d/10rZJO0FCyQq4mAaGdIcP_Al3-XFwOAWzVul8SQoKbv8/pubhtml?widget=true&amp;headers=false"></iframe>
 
+<iframe width="800" height="800" src="https://docs.google.com/spreadsheets/d/10rZJO0FCyQq4mAaGdIcP_Al3-XFwOAWzVul8SQoKbv8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 
 |Theme|Week 1, Session 1|Week 1 Session 2|Week 2 Session 1|Week 2 Session 2|Week 3 Session 1|Week 3 Session 2|Week 4 Session 1|Week 4 Session2|Follow-up|
