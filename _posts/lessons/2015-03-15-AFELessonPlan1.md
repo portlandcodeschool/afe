@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Advanced Front EndWeek 1 Lesson Plan"
+title:  "Advanced Front End Week 1 Lesson Plan"
 category: lessons
 description: "Review the pre-work, meet the class, and starting learning about HTML & CSS."
 ---
@@ -11,15 +11,8 @@ description: "Review the pre-work, meet the class, and starting learning about H
 ##By the end of this lessons, students will be able to:
 
 *	Locate instructional materials and have access to the Slack channel
-*   Identify their course goals and areas of improvement
-*   Identify the purpose of HTML, CSS, and JavaScript on a website
-*   Define the basic structure of an HTML element and a CSS rule
-*   Create a basic website using HTML and CSS with a text editor
-[Head, Body: Header, content, Footer] [h1, h2, div, nav, ul, ol, li, p]
-[class, id, background-color, color, border]
-*   Define situational awareness on the command line
-*   Navigate the command line by using commands such as change directory, print working direcory, and list
-*   Define and describe the purpose of git and github
+* Describe the benefits of task automation
+* Set up task automation for a web project using Sass, Gulp & Autoprefixer
 
 ##Necessary materials:
 
@@ -36,18 +29,7 @@ description: "Review the pre-work, meet the class, and starting learning about H
 2. Review the course syllabus
 	Identify where to locate the syllabus, what the course schedule it, what the expections on assignments are, grading policy
 3. Introduction of content
-* Navigation of Treehouse
-* Slack
-* Sublime Text (or Atom)
-4. Check that everyone has all required programs downloaded and a computer to work from
-5. HTML and CSS introduction: instructor verbalizes what he/she is doing from sublime text.  Ask questions occasionally to check for understanding and gage student engagement
-* 	Define html and css
-* 	Create a new html file
-* 	Build a simple website with little content, list elements as their name,
-* 	Add css to show what each element is created from
-6. Command Line Basic Commands: pwd, ls, cd, open, mkdir
-7. Introduce 1st assignment [Creating your first website](http://portlandcodeschool.github.io/primer/assignments/01-creating-your-first-website/) and walk through the beginning portion.
-8. Introduce 2nd assignment:
+
 
 ##Homework:
 
