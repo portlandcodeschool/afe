@@ -31,4 +31,4 @@ There are a minimum of 6 classroom hours per week with between 6 and 10 hours of
 
 Here's an overview of the whole course - expect this to change as we tune the class for each cohort.
 
-<iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/10rZJO0FCyQq4mAaGdIcP_Al3-XFwOAWzVul8SQoKbv8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="700" src="https://docs.google.com/spreadsheets/d/10rZJO0FCyQq4mAaGdIcP_Al3-XFwOAWzVul8SQoKbv8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

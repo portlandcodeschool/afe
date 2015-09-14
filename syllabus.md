@@ -6,7 +6,7 @@ modified: 2015-02-15 20:42
 ---
 ## Course Description
 
-
+Advanced Front End
 
 
 ### Location
@@ -22,7 +22,7 @@ NOTE: The building is LOCKED after 6:30pm. Please arrive in time for a 6pm class
 | Name           | Email                             | Text only    | Slack      |
 |----------------|-----------------------------------|--------------|------------|
 | Alan Zimmerman | azimmerman@portlandcodeschool.com | 503-970-3645 | @Auraelius |
-| Jaime Panaia   | jpanaia@gmail.com                 |              |            |
+| Kristin Valentine  | kvalentine@portlandcodeschool.com |              | @kristin |
 
 **Contacting your instructors**
 
@@ -41,57 +41,25 @@ Students must have some experience in HTML, CSS, and JavaScript. Students can qu
 
 * Completing the Web Foundations classes (Primer Basic and Primer Pro)
 * URLs of sites you’ve developed and deployed (or link to portfolio)
-*URLs of your web site repositories on github.com
+* URLs of your web site repositories on github.com
 
 
 # Learning Objectives & Core Outcomes
 
-- Understand
-    - SASS & LESS - CSS preprocessors
-    - HTTP - Hypertext Transfer Protocol & REST - Representational
-      State Transfer
-    - APIs - Application Programming Interfaces
-    - AJAX - Asynchronous JavaScript and XML
-    - Browser-side storage such as HTML5 Web Storage and Web SQL
-      Database
-    - Browser-based acceptance testing
-    - Task automation
 - Use
-    - LESS to customize Bootstrap
-    - AJAX to store & retreive information
-    - APIs to get and store information
-    - Chrome Dev Tools to debug AJAX and preprocessed CSS
-    - task automation to preprocess and deploy
-    - Browser-based acceptance testing
-
-
-## Intermediate outcomes
-- AJAX
-    - Create XHR Objects
-    - Write callback functions to update DOM and store information
-- API
-    - Read API documentation
-    - Understand REST URL usage
-    - Perform HTTP operations on an API
-- Chrome Dev Tools
-    - observe and debug XHR transfers
-    - debug LESS using source maps
-    - debug minified JS using source maps
-- Task Automation
-    - Set up a javascript-based tool chain for common tasks
-    - preprocess SASS & LESS
-    - generate live style guides
-    - obfuscate and minify files
-    - apply browser-specific prefixes
-    - deploy site
-- Selenium browser-based acceptance testing
-    - Use selenium IDE to create and run tests
+    - Sass to customize web sites
+    - Client-side JavaScript to increase usability and reduce user errors
+    - Forms to send data to servers
+    - Chrome Dev Tools to debug preprocessed CSS
+    - Task automation to preprocess and deploy
+        - Set up a javascript-based tool chain for common tasks
+        - Use package managers to manage web site configuration
+        - preprocess Sass
+        - generate live style guides
+    - Selenium IDE for browser-based acceptance testing
         - Recording sessions
         - Identifying web page items to manipulate and test
         - Specifying correct values to test for
-    - Use webdriver to run write tests
-
-
 
 
 
@@ -176,9 +144,7 @@ There is no better way to learn coding then to do it, to fail, and to puzzle out
 ## Interactive Programming Exercises.
 You will be required to work through several interactive coding exercises on Codecademy (http://www.codecademy.com). These are free of charge.
 
-## Team Project
 
-TBD
 
 ## Additional requirements
 
@@ -232,4 +198,4 @@ You also get to evaluate *us*. We use a technique called "project retrospectives
 
 -------
 
-*Syllabus version 1.0*
+*Syllabus version 2.0*
