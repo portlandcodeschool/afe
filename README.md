@@ -1,4 +1,4 @@
-Web Development Primer
+Advanced Front End
 =======================
 ### Portland Code School Course Site
 
@@ -18,7 +18,7 @@ Directory Structure
 ├── _posts        # blog posts (course lessons go here)
 ├── _site         # generated site files
 ├── assets
-│   ├── css/      # generated css 
+│   ├── css/      # generated css
 │   ├── fonts/    # FontAwesome files (currently not being used, in favor of the CDN-hosted version.)
 │   ├── js/
 │   └── less/
@@ -37,7 +37,7 @@ Directory Structure
 Updating Site Content
 ---------------------
 
-To create a new post, issue `bundle exec rake new_post` and look for the generated markdown file in `_posts`. 
+To create a new post, issue `bundle exec rake new_post` and look for the generated markdown file in `_posts`.
 
 To create a new page, use `bundle exec rake new_page`. The generated markdown file will be saved to the project root.
 
@@ -45,7 +45,7 @@ To create a new page, use `bundle exec rake new_page`. The generated markdown fi
 Previewing Locally and Publishing to GitHub Pages
 --------------------------------------------------
 
-To preview the site locally, issue 
+To preview the site locally, issue
 ```
 bundle exec rake preview
 ```
@@ -73,7 +73,7 @@ and generates and serves the site with
 jekyll serve
 ```
 
-### `rake publish` 
+### `rake publish`
 
 When publishing to GitHub pages, Rake compiles LESS as above, checks for a clean git status, and regenerates the site on a `gh-pages` branch before pushing all branches to remote `origin`:
 ```
@@ -84,7 +84,6 @@ git branch -D gh-pages  &&  git branch gh-pages  &&  git push --all origin
 The following lines in `config.yml` must be swapped when switching between development and production environments. Rake will check to make sure the correct one for previewing / publishing is set and prompt you if you've forgotten to swap them out.
 
 ```
-url:    http://portlandcodeschool.github.io/primer  # for production
+url:    http://portlandcodeschool.github.io/afe  # for production
 # url:  http://0.0.0.0:4000                         # for local testing
 ```
-

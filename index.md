@@ -16,9 +16,9 @@ This class introduces state of the art tools and techniques used by professional
 These tools and techniques include:
 
 * Task automation to reduce repetitive tasks and improve quality
-* CSS preprocessors to improve code design and flexibility
+* Sass - a CSS preprocessor that improve codes design and flexibility
 * Browser-based acceptance testing with Selenium IDE
-* Chrome Developer Tools for debugging SCSS using source maps
+* Chrome Developer Tools for debugging Sass using source maps
 * Style guides - specifying and controlling the coding of style
 * Interactivity - forms, microinteractions, and UI patterns
 
@@ -27,7 +27,7 @@ For a more detailed look at what you'll learn, check out the [syllabus](syllabus
 
 Simplified Schedule
 -------------------
-There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. There are at least 10 hours of homework per week. Students may spend additional time per week depending on their educational goals.
+There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. There are _at least_ 10 hours of homework per week. Students may spend additional time per week depending on their educational goals.
 
 Here's an overview of the whole course - expect this to change as we tune the class for each cohort.
 
