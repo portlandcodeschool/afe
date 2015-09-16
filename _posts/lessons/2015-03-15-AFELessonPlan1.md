@@ -7,7 +7,7 @@ description: "Review the pre-work, meet the class, and starting learning about S
 
 #Objectives:
 
-##By the end of this lessons, students will be able to:
+By the end of this week, students will be able to:
 
 *	Locate instructional materials and have access to the Slack channel
 * Describe the benefits of task automation
@@ -24,19 +24,19 @@ description: "Review the pre-work, meet the class, and starting learning about S
 
 ##Session 1
 
-* Presentation: ["Fixing CSS with Sass"](http://slides.com/auraelius/fixing-css)
-* Presentation: ["Task Automation"](http://slides.com/auraelius/task-automation-11)
+0. Introductions & Logistics
+0. Presentation: ["Task Automation"](http://slides.com/auraelius/task-automation-11)
+0. Presentation: ["Fixing CSS with Sass"](http://slides.com/auraelius/fixing-css)
 
 ## Session 2:
 
-Lab: Week 1 Assignment
-
-We start [Personal Notebook, Iteration 1](http://portlandcodeschool.github.io/afe/assignments/02-personal-notebook/)
-* Overview
-* Git review: Forking and cloning repositories
-* Code-along: Designing cards and sketching SCSS with Codepen.io
+1. Lab: [Week 1 Assignment](http://portlandcodeschool.github.io/afe/assignments/01-week-1-assignment/)
+2. Start [Personal Notebook, Iteration 1](http://portlandcodeschool.github.io/afe/assignments/02-personal-notebook/)
+		* Overview
+		* Git review: Forking and cloning repositories
+		* Code-along: Designing cards and sketching SCSS with Codepen.io
 
 # Post-work
 
-* [Week 1 Assignment](http://portlandcodeschool.github.io/afe/assignments/01-week-1-assignment/) - Due Monday before class
-* [Personal Notebook, Iteration 1](http://portlandcodeschool.github.io/afe/assignments/02-personal-notebook/) - Due Wednesday before class
+0. [Week 1 Assignment](http://portlandcodeschool.github.io/afe/assignments/01-week-1-assignment/) - Due Monday before class
+0. [Personal Notebook, Iteration 1](http://portlandcodeschool.github.io/afe/assignments/02-personal-notebook/) - Due Wednesday before class
