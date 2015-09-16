@@ -32,6 +32,7 @@ Session 2:
 
 1. Lab: [Week 1 Assignment](http://portlandcodeschool.github.io/afe/assignments/01-week-1-assignment/)
 2. Start [Personal Notebook, Iteration 1](http://portlandcodeschool.github.io/afe/assignments/02-personal-notebook/)
+
 		* Overview
 		* Git review: Forking and cloning repositories
 		* Code-along: Designing cards and sketching SCSS with Codepen.io
