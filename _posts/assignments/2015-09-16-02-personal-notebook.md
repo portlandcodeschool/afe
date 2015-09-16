@@ -38,10 +38,10 @@ This assignment has students use SCSS to style some cards according to the Googl
     * [Material Properties](https://www.google.com/design/spec/what-is-material/material-properties.html)
     * [Elevation Shadows](https://www.google.com/design/spec/what-is-material/elevation-shadows.html)
 0. (Optional/Extra) For a series of videos about Material Design, see the YouTube playlist
-    * [https://youtu.be/p4gmvHyuZzw?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_](https://youtu.be/p4gmvHyuZzw?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
-    * [https://youtu.be/XOcCOBe8PTc?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_](https://youtu.be/XOcCOBe8PTc?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
-    * [https://youtu.be/YaG_ljfzeUw?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_](https://youtu.be/YaG_ljfzeUw?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
-    * [https://youtu.be/zhszwkcay2A?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_](https://youtu.be/zhszwkcay2A?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
+    * [Intro to Material Design](https://youtu.be/p4gmvHyuZzw?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
+    * [Material Design in the Google I/O App](https://youtu.be/XOcCOBe8PTc?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
+    * [Paper and Ink: The Materials that Matter](https://youtu.be/YaG_ljfzeUw?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
+    * [Density-independent Pixels](https://youtu.be/zhszwkcay2A?list=PLOU2XLYxmsIJFcNKpAV9B_aQmz2h68fw_)
 
 ## Design and style cards
 

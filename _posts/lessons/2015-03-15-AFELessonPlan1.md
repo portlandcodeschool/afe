@@ -22,13 +22,13 @@ By the end of this week, students will be able to:
 
 #Activities:
 
-##Session 1
+Session 1
 
 0. Introductions & Logistics
 0. Presentation: ["Task Automation"](http://slides.com/auraelius/task-automation-11)
 0. Presentation: ["Fixing CSS with Sass"](http://slides.com/auraelius/fixing-css)
 
-## Session 2:
+Session 2:
 
 1. Lab: [Week 1 Assignment](http://portlandcodeschool.github.io/afe/assignments/01-week-1-assignment/)
 2. Start [Personal Notebook, Iteration 1](http://portlandcodeschool.github.io/afe/assignments/02-personal-notebook/)
