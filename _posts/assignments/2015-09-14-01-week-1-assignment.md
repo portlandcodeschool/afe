@@ -19,7 +19,6 @@ This assignment is due by class time, next Monday.
   * The main Sass site - http://sass-lang.com/
 
 3. (Optional) Read these guideline articles
-
   * Sass Guidelines - http://sass-guidelin.es/
   * Sass Style Guide - https://css-tricks.com/sass-style-guide/
 
@@ -34,7 +33,7 @@ Do the following modules in the command line tutorial: The Command Line for Web 
     * Do not install ruby Sass
     * Do not install stylus or LESS
     * Do not install Jade or the others
-5. Read *but do not do* _Automation with Grunt_
+5. Read **but do not do** _Automation with Grunt_
 6. Do [_Automation with Gulp_](http://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-automation-with-gulp--cms-23642)  
 
 # Getting help
