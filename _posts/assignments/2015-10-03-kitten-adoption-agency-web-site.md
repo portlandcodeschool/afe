@@ -29,9 +29,9 @@ Earlier exercises laid the groundwork for this project:
 
 0. Examine the Design materials at the bottom of the page to orient on user and client goals
 0. Examine the prioritized user stories that are in scope.
-0 Examine the site design mockups to analyze how to structure your HTML & SCSS to implement the design
+0. Examine the site design mockups to analyze how to structure your HTML & SCSS to implement the design
     - There is no mobile design mockup!! So, you must create a simple wireframe with content blocks. Remember, you must code using mobile-first with progressive enhancement technique
-    - How will you use the Bootstrap grid system to manage the layout? Write down your thoughts.
+    - How will you use the Bootstrap grid system to manage the layout? Write down your thoughts or print out the mockups and draw lines on them to estimate.
     - What Bootstrap components and plugins will be useful? Write down your thoughts.
     - What Bootstrap style classes will you need to control to implement the look? Write down a beginning list.
 
