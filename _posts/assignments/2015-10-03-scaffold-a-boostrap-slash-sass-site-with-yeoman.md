@@ -71,7 +71,7 @@ We'll use [gulp-webapp](https://github.com/yeoman/generator-gulp-webapp#readme) 
 
 ## Steps to set up your live style guide
 
-If you are lucky enough to have a designer that created a style guide for you, consider yourself blessed. Your next style is to map that styleguide to the Bootstrap Sass variables that you must override.
+If you are lucky enough to have a designer that created a style guide for you, consider yourself blessed. Your next step is to map that styleguide to the Bootstrap Sass variables that you must override.
 
 0. Make a quick/easy static guide by going to  
 <kbd>http://www.poormansstyleguide.com/</kbd>
