@@ -27,7 +27,7 @@ Earlier exercises laid the groundwork for this project:
 
 # Phase One: Review the site design
 
-0. Examine the Design materials at the bottom of the page to orient on user and client goals
+0. Examine the design materials at the bottom of the page to orient on user and client goals
 0. Examine the prioritized user stories that are in scope.
 0. Examine the site design mockups to analyze how to structure your HTML & SCSS to implement the design
     - There is no mobile design mockup!! So, you must create a simple wireframe with content blocks. Remember, you must code using mobile-first with progressive enhancement technique
@@ -49,7 +49,7 @@ This should already be done due to earlier class work. Make sure it includes the
 
 # Phase Three: Scaffold the site
 
-0. Follow the generic instructions to scaffold a bootstrap/sass site with yo. [Look here for instructions](/assignments/scaffold-a-boostrap-slash-sass-site-with-yeoman/)
+0. Follow the generic instructions to scaffold a bootstrap/sass site with yo. [Look here for instructions](/afe/assignments/scaffold-a-boostrap-slash-sass-site-with-yeoman/)
 0. Update the appropriate manifest files with information specific to this project.
 0. Initialize the project as a git repo
     - Make sure your .gitignore file is set up correctly to ignore node modules and any temporary files created by your tool chain
@@ -67,7 +67,7 @@ Perform this phase in iterations. An example series of iterations is listed belo
 0. Add the kitten detail page. Create the page for just the first kitten. You do not have to create any additional pages. In a data-driven website, you would create the template for the page and then he would use programming to fill in that template from a database. That is beyond the scope of this class. So, just create one page and fill it with with the information from the first kitten.
 0. At the adoption form. Again, code this by hand.
 
-# Design elements
+# Design materials
 
 ## Client brief
 
