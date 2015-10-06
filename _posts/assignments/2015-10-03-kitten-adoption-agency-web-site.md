@@ -49,7 +49,7 @@ This should already be done due to earlier class work. Make sure it includes the
 
 # Phase Three: Scaffold the site
 
-0. Follow the generic instructions to scaffold a bootstrap/sass site with yo. (link)
+0. Follow the generic instructions to scaffold a bootstrap/sass site with yo. [Look here for instructions](/assignments/scaffold-a-boostrap-slash-sass-site-with-yeoman/)
 0. Update the appropriate manifest files with information specific to this project.
 0. Initialize the project as a git repo
     - Make sure your .gitignore file is set up correctly to ignore node modules and any temporary files created by your tool chain

@@ -73,10 +73,9 @@ We'll use [gulp-webapp](https://github.com/yeoman/generator-gulp-webapp#readme) 
 
 If you are lucky enough to have a designer that created a style guide for you, consider yourself blessed. Your next step is to map that styleguide to the Bootstrap Sass variables that you must override.
 
-0. Make a quick/easy static guide by going to  
-<kbd>http://www.poormansstyleguide.com/</kbd>
+0. Make a quick/easy static guide by going to  http://www.poormansstyleguide.com/
 0. Create a new file called <kdb>styleguide.html</kbd> in the root of your app.
-0. Paste the HTML from this site <kdb>styleguide.html</kbd>
+0. Paste the HTML from this site into <kbd>styleguide.html</kbd>. You may want to update the HTML to match your scaffolded HTML (which is based )
 0. Modify <kdb>styleguide.html</kbd> to include your compiled CSS file. Check <kdb>index.html</kbd> if you don't know the name of the CSS file.
 0. Read the bootstrap documentation (URL) for which components, classes, and variables to use
 0. Set up your styleguide with the same classes that you will use in your Bootstrap customizations.
